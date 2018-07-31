@@ -1,18 +1,19 @@
-*はてなブログで使用したvimの設定ファイルです*
+*はてなブログで使用したvim_settingです*
 
->それぞれの環境で、指定先が代わり内容も変更しています。
+    とても古いファイルです。設定、一部を使うのには向いています。
+
 
 ```
-win32 → Vim + Windows向け
+win32 = Vim + Windows向け
 
-centos7 → NeoVim + CentOS7向け
+centos7 = NeoVim + CentOS7向け
 
-win32 → NeoVim-qt + Windows向け
+win32 = NeoVim-qt + Windows向け
 ```
 
 *フォルダ構成*
 
-*win32編 (vim-monster使用)*
+*win32*
 
 ```ruby
 
@@ -27,7 +28,7 @@ ruby install.rb
 
 ```
 
-*centos7 (deoplete RSense使用)*
+*centos7*
 
 ```ruby
 ディレクトリの指定先
@@ -43,7 +44,7 @@ ruby install.rb
 
 ```
 
-Windows neovim-qt (deoplete monster rcodetools使用)
+Windows neovim-qt
 
 ```ruby
 
@@ -59,5 +60,3 @@ ruby install.rb
 ```
 
 *created Takayuki Kamiyama.*
-
-***Vim設定ファイルは、MITライセンスです***
