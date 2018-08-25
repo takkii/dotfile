@@ -83,6 +83,8 @@ $HOME .gvimrc
 
 動作しなければ、
 
-[Sinatraのあらかると] (http://takkii.hatenablog.com)内で検索してみてください。
+[Sinatraのあらかると] (http://takkii.hatenablog.com)
+
+内で検索してみてください。
 
 *created Takayuki Kamiyama.*
