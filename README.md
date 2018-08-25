@@ -59,7 +59,10 @@ ruby install.rb
 
 ```
 
+Windows + Vim8-kaoriya or Vim8  + Python3.5 or Python3.6
+
 ```txt
+
 win_dein_neocomplete
 
 win_dein_deoplete
@@ -75,6 +78,9 @@ $HOME .gvimrc
 好みに合ったプラグインに修正願います。
 
 ※ Rubyであれば、このままで充分です。
+動作しなければ、
+[Sinatraのあらかると] (http://takkii.hatenablog.com)内で検索してみてください。
+
 ```
 
 *created Takayuki Kamiyama.*
