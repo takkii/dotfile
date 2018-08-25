@@ -59,4 +59,22 @@ ruby install.rb
 
 ```
 
+```txt
+win_dein_neocomplete
+
+win_dein_deoplete
+
+$HOME .vim
+
+$HOME .vimrc
+
+$HOME .gvimrc
+
+設置すると初期動作します。
+
+好みに合ったプラグインに修正願います。
+
+※ Rubyであれば、このままで充分です。
+```
+
 *created Takayuki Kamiyama.*
