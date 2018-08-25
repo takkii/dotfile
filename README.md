@@ -78,9 +78,11 @@ $HOME .gvimrc
 好みに合ったプラグインに修正願います。
 
 ※ Rubyであれば、このままで充分です。
-動作しなければ、
-[Sinatraのあらかると] (http://takkii.hatenablog.com)内で検索してみてください。
 
 ```
+
+動作しなければ、
+
+[Sinatraのあらかると] (http://takkii.hatenablog.com)内で検索してみてください。
 
 *created Takayuki Kamiyama.*
