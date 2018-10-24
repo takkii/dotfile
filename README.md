@@ -61,4 +61,32 @@ ruby install.rb
 
 ```
 
+Windows + Vim8-kaoriya or Vim8  + Python3.5 or Python3.6
+
+```txt
+
+win_dein_neocomplete
+
+win_dein_deoplete
+
+$HOME .vim
+
+$HOME .vimrc
+
+$HOME .gvimrc
+
+設置すると初期動作します。
+
+好みに合ったプラグインに修正願います。
+
+※ Rubyであれば、このままで充分です。
+
+```
+
+動作しなければ、
+
+http://takkii.hatenablog.com
+
+環境構築ブログ内で検索してみてください。
+
 *created Takayuki Kamiyama.*
