@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub release](https://img.shields.io/github/release/takkii/dotfile.svg?style=flat)](GitHub)[![GitHub Status](https://img.shields.io/github/last-commit/takkii/dotfile.svg?style=flat)](GitHub)
+
 *はてなブログで使用したvim_settingです*
 
     とても古いファイルです。設定、一部を使うのには向いています。
